@@ -32,4 +32,4 @@ Security Tip: Ideal for apps needing third-party authentication.
 Testing: Access /oauth/login to initiate OAuth login and follow redirect instructions.
 
 Testing with Postman
-Each authentication method can be tested using Postman. Access the Postman collection here: [Web Auth Examples on Postman]([url](https://www.postman.com/aviation-specialist-85086927/in6206-individual-assignment-web-auth-examples/overview)).
+Each authentication method can be tested using Postman. Access the Postman collection here: https://www.postman.com/aviation-specialist-85086927/in6206-individual-assignment-web-auth-examples/overview
