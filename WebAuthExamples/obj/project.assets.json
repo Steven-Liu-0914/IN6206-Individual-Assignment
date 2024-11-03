@@ -1268,11 +1268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\WebAuthExamples\\WebAuthExamples\\WebAuthExamples.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\IN6206-Individual-Assignment\\WebAuthExamples\\WebAuthExamples.csproj",
       "projectName": "WebAuthExamples",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\WebAuthExamples\\WebAuthExamples\\WebAuthExamples.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\IN6206-Individual-Assignment\\WebAuthExamples\\WebAuthExamples.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\WebAuthExamples\\WebAuthExamples\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\IN6206-Individual-Assignment\\WebAuthExamples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
